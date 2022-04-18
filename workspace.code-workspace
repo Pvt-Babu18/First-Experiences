@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"path": "D:\\If_Else\\Loop\\arrays"
+		},
+		{
+			"path": "D:\\If_Else\\OOP"
+		},
+		{
+			"path": "D:\\If_Else\\Loop\\function_file"
+		},
+		{
+			"path": "D:\\If_Else\\Loop\\project-file"
+		},
+		{
+			"path": "D:\\If_Else\\Loop\\quadratic.c"
+		},
+		{
+			"path": "D:\\If_Else\\Loop\\structure"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"typeinfo": "c"
+		}
+	}
+}
